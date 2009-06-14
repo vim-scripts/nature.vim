@@ -1,0 +1,16 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=2677
+
+This is a very simple color scheme.
+Features:
+* Black background
+* Green and blue with a touch of yellow and magenta
+* Tango palette
+* Color difference between [Conditional] and [Repeat] statements
+* Dark gray comments
+* PINK ERRORS!!!!!!!!1!
+* Works with both GUI and console
+! Does not support transparency (intentional).
+Screenshots here: http://picasaweb.google.com/elfakyn/Vim
+
+I think I should get a job in advertising :).
+Enjoy!
